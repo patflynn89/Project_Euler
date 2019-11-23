@@ -15,9 +15,9 @@ public class Reverse_Int {
             }
         }
 
+        //Give out the reversed int
         System.out.print("Reversed: ");
         for(int j : reversed) {
-
             System.out.print(j + "");
         }
     }
