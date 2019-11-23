@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Even_Fibonacci/Even_Fibonacci.iml" filepath="$PROJECT_DIR$/Even_Fibonacci/Even_Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/Multiples_3_And_5/Multiples_3_And_5.iml" filepath="$PROJECT_DIR$/Multiples_3_And_5/Multiples_3_And_5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Project Euler.iml" filepath="$PROJECT_DIR$/Project Euler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reverse Integer/Reverse Integer.iml" filepath="$PROJECT_DIR$/Reverse Integer/Reverse Integer.iml" />
     </modules>
   </component>
 </project>
